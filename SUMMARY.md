@@ -6,6 +6,7 @@
 
 * [개요](data-structure/overview.md)
 * [Queue](data-structure/queue.md)
+* [Stack](data-structure/stack.md)
 
 ## 환경 <a id="environment"></a>
 
