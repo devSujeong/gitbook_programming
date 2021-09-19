@@ -26,3 +26,7 @@
 
 * [shortcut](vi/shortcut.md)
 
+## shell
+
+* [shortcut](shell/shortcut.md)
+
