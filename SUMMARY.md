@@ -7,6 +7,7 @@
 * [개요](data-structure/overview.md)
 * [Queue](data-structure/queue.md)
 * [Stack](data-structure/stack.md)
+* [Linked List](data-structure/linked-list.md)
 
 ## 환경 <a id="environment"></a>
 
@@ -24,4 +25,8 @@
 ## vi
 
 * [shortcut](vi/shortcut.md)
+
+## shell
+
+* [shortcut](shell/shortcut.md)
 
