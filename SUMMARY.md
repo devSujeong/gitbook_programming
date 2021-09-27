@@ -30,3 +30,7 @@
 
 * [shortcut](shell/shortcut.md)
 
+---
+
+* [vscode shortcut](vscode-shortcut.md)
+
