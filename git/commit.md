@@ -29,7 +29,6 @@ git rebase -i 9d9cde8 # 3. 수정할 커밋의 직전 커밋으로 불러
 i # vi 편집하겠다.
 
 `esc`, :wq # 편집 완료 후 종료
-
 ```
 
 ## Commit cancel

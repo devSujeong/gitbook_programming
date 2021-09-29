@@ -16,5 +16,3 @@ git log --oneline --decorate
 git log --branches --not --remotes --oneline
 ```
 
-
-
