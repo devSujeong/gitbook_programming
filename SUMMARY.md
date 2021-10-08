@@ -38,4 +38,5 @@
 
 * [Network](network/network.md)
 * [HTTP](network/http.md)
+* [Cache](network/cache.md)
 
